@@ -64,3 +64,7 @@ The program will prompt you to enter a password, please remember this password f
 🔹Save data from UTC--2025 till the end [Check SS for more clearity]
 
 <h1>Change the ➕ to UTC file name you saved above</h1>
+
+```console
+mv $HOME/privasea/config/+ $HOME/privasea/config/wallet_keystore
+```
