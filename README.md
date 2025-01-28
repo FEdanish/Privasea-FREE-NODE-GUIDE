@@ -68,3 +68,8 @@ The program will prompt you to enter a password, please remember this password f
 ```console
 mv $HOME/privasea/config/+ $HOME/privasea/config/wallet_keystore
 ```
+<h1>Update your password before starting the node</h1>
+
+```console
+KEYSTORE_PASSWORD=ENTER_YOUR_KEYSTORE_PASSWORD && docker run -d --name privanetix-node -v "$HOME/privasea/config:/app/config" -e KEYSTORE_PASSWORD=$KEYSTORE_PASSWORD privasea/acceleration-node-beta:latest
+```
