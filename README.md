@@ -53,4 +53,4 @@ mkdir -p ~/privasea/config && cd ~/privasea
 ```console
 docker run --rm -it -v "$HOME/privasea/config:/app/config" privasea/acceleration-node-beta:latest ./node-calc new_keystore
 ```
-<h><h1>Note:<h1> The program will prompt you to enter a password, please remember this password for future use.</h>
+<h1>Note:<h1> The program will prompt you to enter a password, please remember this password for future use
