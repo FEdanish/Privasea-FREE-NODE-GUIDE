@@ -35,3 +35,21 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 # Docker version check
 docker --version
 ```
+
+<h1>Pull docker mirroring</h1>
+
+```console
+docker pull privasea/acceleration-node-beta:latest
+```
+
+<h1>Node program configuration</h1>
+
+```console
+mkdir -p ~/privasea/config && cd ~/privasea
+```
+
+<h1>Get the keystore file</h1>
+
+```console
+docker run --rm -it -v "$HOME/privasea/config:/app/config" privasea/acceleration-node-beta:latest ./node-calc new_keystore
+```
