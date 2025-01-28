@@ -59,3 +59,5 @@ The program will prompt you to enter a password, please remember this password f
 
 ![-218677_temp](https://github.com/user-attachments/assets/0efcbf96-407f-46db-9f27-a0fcc4c0817e)
 
+🔹You should save your node address, it will be useful later
+🔹Save data from UTC--2025 till the end [Check SS for more clearity]
