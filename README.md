@@ -56,3 +56,6 @@ docker run --rm -it -v "$HOME/privasea/config:/app/config" privasea/acceleration
 <h1>NOTE:</h1>
 
 The program will prompt you to enter a password, please remember this password for future use.
+
+![-218677_temp](https://github.com/user-attachments/assets/0efcbf96-407f-46db-9f27-a0fcc4c0817e)
+
