@@ -73,3 +73,8 @@ mv $HOME/privasea/config/+ $HOME/privasea/config/wallet_keystore
 ```console
 KEYSTORE_PASSWORD=ENTER_YOUR_KEYSTORE_PASSWORD && docker run -d --name privanetix-node -v "$HOME/privasea/config:/app/config" -e KEYSTORE_PASSWORD=$KEYSTORE_PASSWORD privasea/acceleration-node-beta:latest
 ```
+<h1>Check Node Logs</h1>
+
+```console
+docker logs -f privanetix-node
+```
