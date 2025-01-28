@@ -78,3 +78,8 @@ KEYSTORE_PASSWORD=ENTER_YOUR_KEYSTORE_PASSWORD && docker run -d --name privaneti
 ```console
 docker logs -f privanetix-node
 ```
+<h1>Link node address and reward address</h1>
+
+Link: https://deepsea-beta.privasea.ai/privanetixNode
+
+![image](https://github.com/user-attachments/assets/f4e5dfee-b065-4bd8-9174-716cd661e2d2)
