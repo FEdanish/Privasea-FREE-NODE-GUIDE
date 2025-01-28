@@ -83,3 +83,6 @@ docker logs -f privanetix-node
 Link: https://deepsea-beta.privasea.ai/privanetixNode
 
 ![image](https://github.com/user-attachments/assets/f4e5dfee-b065-4bd8-9174-716cd661e2d2)
+
+<h1>💎💎 Follow us on telegram for latest FCFS updates and alpha 🪂🪂</h1>
+🪂Link: https://telegram.me/feature_earning
