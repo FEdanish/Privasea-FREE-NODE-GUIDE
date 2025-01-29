@@ -1,6 +1,6 @@
 <h1>The easiest guide to run a Privanetix Node</h1>
 
-<h>💎Youtube video tutorial: https://youtu.be/nJ3fyyUwd3E?si=d26SiArlBF1l3siW</h>
+<h>💎Youtube video tutorial: [https://youtu.be/nJ3fyyUwd3E?si=d26SiArlBF1l3siW](https://youtu.be/gM1514PzjjM?si=VY35iyfbsT1KSSi5)</h>
 
 🫰💸💴🤑💲💰
 
